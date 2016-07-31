@@ -20,7 +20,7 @@ def usage(progname):
         "chromecli --connect 192.168.5.5:8008\tconnect to chromecast located at address\n\n")
 
 def version():
-    print("chromecli 0.2\n"\
+    print("chromecli 0.1\n"\
         "Copyright (C) 2016 Free Software Foundation, Inc.\n"\
         "License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.\n"\
         "This is free software: you are free to change and redistribute it.\n"\
